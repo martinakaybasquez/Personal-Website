@@ -1,0 +1,20 @@
+body {
+    background-image: url(images/background1.png);
+    background-size: cover;
+    background-size: 1500px;
+    /* padding: 100px 1000px 100px; */
+}
+
+/* Background for tablets 
+@media (max-width: 768px) {
+    body {
+      background-image: url('background.png');
+    }
+  }*/
+  
+  /* Background for mobile devices 
+  @media (max-width: 480px) {
+    body {
+      background-image: url('background.png');
+    }
+  }*/
